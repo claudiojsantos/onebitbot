@@ -9,6 +9,7 @@ gem 'pg_search'
 
 group :development do
     gem 'tux'
+    gem 'solargraph'
 end
 
 gem 'factory_bot'
